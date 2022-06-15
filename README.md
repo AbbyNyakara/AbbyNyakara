@@ -9,5 +9,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=tokyonight)](https://github.com/AbbyNyakara)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/thecodechaser)
 
 

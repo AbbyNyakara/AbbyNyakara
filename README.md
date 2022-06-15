@@ -8,8 +8,8 @@
 - 🔈 Open to new opportunities in Software Development
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=dark)](https://github.com/AbbyNyakara)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/thecodechaser)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=radical)](https://github.com/AbbyNyakara)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=radical&layout=compact)](https://github.com/thecodechaser)
 
 
 

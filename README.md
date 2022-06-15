@@ -8,3 +8,6 @@
 - 🔈 Open to new opportunities in Software Development
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=tokyonight)](https://github.com/AbbyNyakara)<br>
+
+

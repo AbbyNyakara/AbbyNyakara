@@ -1,0 +1,1 @@
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="500" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>

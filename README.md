@@ -22,6 +22,11 @@
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white&color=red)
 ![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=white&color=blue)
 
+##CONTACT ME
+- [E-mail](abbynyakara@gmail.com)
+- [PORTFOLIO](https://github.com/AbbyNyakaraOO)
+- [Twitter](@AbbyNyakara)
+
 ## My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=radical)](https://github.com/AbbyNyakara)<br>

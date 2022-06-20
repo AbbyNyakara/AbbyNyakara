@@ -22,9 +22,11 @@
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white&color=red)
 ![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=white&color=blue)
 
+## My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=radical)](https://github.com/AbbyNyakara)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=radical&layout=compact)](https://github.com/thecodechaser)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=radical&layout=compact)](https://github.com/AbbyNyakara)
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api?username=AbbyNyakara&show_icons=true&theme=radical" alt="Abby" /> 
 
 
 

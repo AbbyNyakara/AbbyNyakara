@@ -29,9 +29,9 @@
 
 ## My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=radical)](https://github.com/AbbyNyakara)<br>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbyNyakara&theme=radical)](https://github.com/AbbyNyakara)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbyNyakara&show_icons=true&theme=radical&layout=compact)](https://github.com/AbbyNyakara)
 <img src="https://github-readme-stats.vercel.app/api?username=AbbyNyakara&show_icons=true&theme=radical" alt="Abby" /> 
-
+ -->
 
 

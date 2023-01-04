@@ -25,7 +25,7 @@
  ## CONTACT ME
 - [E-mail](abbynyakara@gmail.com)
 - [PORTFOLIO](https://abby-portfolio-rho.vercel.app/)
-- [Twitter](@NyakaraAbigael)
+- [Twitter](https://twitter.com/NyakaraAbigael)
 
 ## My Stats
 

@@ -2,7 +2,7 @@
 
 ## Hello there! I'm Abby Nyakara
 - 📚 Junior Full stack developer
-- 🎯 My tech stack is JavaScript/React/Vue and Ruby/Ruby on Rails.
+- 🎯 My tech stack is JavaScript/React/Vue and Ruby/Ruby on Rails/Node/Express/MySql/PostGresql.
 - 🎻To relax, I play the violin or read a good book
 - 📩 You can reach me via email on: abbynyakara@gmail.com
 - 🔈 Open to new opportunities in Software Development
